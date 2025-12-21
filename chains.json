@@ -63433,5 +63433,23 @@
             "color_chain_text": "0xFFFFFF",
             "ic_home_logo": "https://asset.movachain.com/logo/Mova-TP-Icon-01.png"
         }
+    },
+    {
+        "name": "Ozone Chain",
+        "chainId": 10121,
+        "shortName": "Ozone",
+        "chain": "Ozone",
+        "network": "mainnet",
+        "networkId": 10121,
+        "nativeCurrency": {
+            "name": "Ozone",
+            "symbol": "OZONE",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://chain.ozonescan.com"
+        ],
+        "faucets": [],
+        "infoURL": "https://ozonechain.com"
     }
 ]
